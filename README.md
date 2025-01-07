@@ -1,2 +1,2 @@
 # Eternity-The-Greatest-Generation
-A game based off the mods under the same name.
+A game based on the mod.
