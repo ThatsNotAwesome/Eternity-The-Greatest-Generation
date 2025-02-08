@@ -1,2 +1,2 @@
 # Eternity-The-Greatest-Generation
-An upcoming game.
+A game based on The Eternity Mod and Eternity Craft.
